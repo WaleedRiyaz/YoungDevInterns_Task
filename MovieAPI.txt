@@ -1,6 +1,1 @@
-MongoDB
-Cluster0:
-Username: waleedriaz1512
-Password: 5YHc4r1YxdGMMrYI
-
-URI: mongodb+srv://waleedriaz1512:<password>@cluster0.86gozvq.mongodb.net/
+;)
